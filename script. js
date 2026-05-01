@@ -1,0 +1,6 @@
+public class PCRestaurant {
+    public static void main(String[] args) {
+        System.out.println("PC Restaurant Lahore Server Running");
+        System.out.println("Menu Loaded Successfully");
+    }
+}
